@@ -1,3 +1,4 @@
+/* This is a simple calculator*/
 import java.util.Scanner;
 
  public class calculator
@@ -56,3 +57,14 @@ import java.util.Scanner;
 	}while(choice != 5);       
     }
 }
+x
+:x
+:
+:wq
+
+w
+q
+:
+
+:
+
